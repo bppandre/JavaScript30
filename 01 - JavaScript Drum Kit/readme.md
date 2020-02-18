@@ -1,1 +1,2 @@
-# this is a read me
+# Js challenge day 1 - JavaScript Drum Kit
+
